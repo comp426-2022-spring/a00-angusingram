@@ -1,0 +1,22 @@
+{
+  "name": "a00-angusingram",
+  "version": "1.0.0",
+  "description": "first project for comp 426, demo/setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a00-angusingram.git"
+  },
+  "author": "Angus Ingram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a00-angusingram/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a00-angusingram#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
